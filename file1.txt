@@ -1,2 +1,4 @@
 Added News File
 Fix1
+Fix2
+Fix3
